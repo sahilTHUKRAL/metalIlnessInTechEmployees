@@ -1,4 +1,4 @@
-# metalIlnessInTechEmployees
+# Metal Ilness In Tech Employees
 Data mining is the computing process of discovering patterns in largedata sets involving
 methods at the intersection ofmachine learning,statistics, anddatabase systems. An
 essential process where intelligent methods are applied to extract data patterns. It is
